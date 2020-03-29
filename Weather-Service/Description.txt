@@ -1,0 +1,1 @@
+We use python library urlib to incorporate the data from a weather web service in JSON representation.
